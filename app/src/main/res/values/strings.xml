@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ValidatableDemo</string>
+    <string name="required_field">Required field</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="test">Test</string>
+    <string name="warning_incorrect_email">Incorrect email</string>
+    <string name="warning_incorrect_password">Incorrect password</string>
+    <string name="correct_input">Everything is correct!</string>
+</resources>
